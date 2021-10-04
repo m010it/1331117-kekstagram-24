@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Никита Матлинг](https://up.htmlacademy.ru/javascript/24/user/1331117).
-* Наставник: `RAMAN LAURYNIUK`.
+* Наставник: `Roman Lauriniuk`.
 
 ---
 
